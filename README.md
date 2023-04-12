@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bis304
-- 👀 I’m interested in Data Sciences and Cyber Security
-- 🌱 I’m currently learning Data Sciences
+- 👀 I’m interested in Quality Assurance, software testing (Manual/Automation)
+- 🌱 I’m currently learning software automation testing
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me , reach me at bismah.malik@gmail.com
 
